@@ -1,1 +1,1 @@
-# TU-Sofia
+This repo holds my projects and exercises, created during my education in TU-Sofia.
