@@ -4,4 +4,4 @@ dict = dict()
 for i in inputText:
     dict[i] = ord(i)
 
-print(dict)    
+print(dict)   
